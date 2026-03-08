@@ -7,6 +7,9 @@ Smart Study Planner is a modern, responsive, and visually engaging web applicati
 
 This project focuses on combining clean UI/UX design with practical productivity tools to create a student-friendly study management system.
 
+![Uploading Screenshot 2026-03-08 230723.png…]()
+
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
